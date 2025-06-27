@@ -14,7 +14,8 @@ fn main() {
 
     let msg = format!(
         "Welcome to my Github. My name is {}, an {}. Hope you find something helpful to your journey.",
-        me.name, me.role,
+        me.name,
+        me.role,
     );
 
     println!("{}", msg);
