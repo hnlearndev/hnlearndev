@@ -24,10 +24,6 @@ fn main() {
 }
 ```
 
-I am not a sofware engineer or developer by trained. However, I never hesitate to bring the latest technology to my work and share them with open-source community.
-
-If you find something helpful, I am more than just happy to hear from you. 🤜🤛 🤝
-
 #### 📫 Connect with me: 
 
 <a href="mailto:hieunt.hello@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
