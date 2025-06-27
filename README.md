@@ -8,14 +8,13 @@ struct Actuary {
 
 fn main() {
     let me = Actuary {
-        name: "Trung-Hieu",
-        role: "aspiring actuary student",
+        name: "Trung-Hieu".to_string(),
+        role: "aspiring actuary student".to_string(),
     };
 
     let msg = format!(
         "Welcome to my Github. My name is {}, an {}. Hope you find something helpful to your journey.",
-        me.name,
-        me.role,
+        me.name, me.role,
     );
 
     println!("{}", msg);
