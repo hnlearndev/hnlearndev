@@ -19,8 +19,6 @@ fn main() {
     );
 
     println!("{}", msg);
-
-    assert!(true);
 }
 ```
 
