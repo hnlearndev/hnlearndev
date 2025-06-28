@@ -37,7 +37,7 @@ fn main() {
 #### 🗃️ Databases:
 ![DuckDB](https://img.shields.io/badge/DuckDB-f7f700.svg?logo=duckdb&logoColor=black)
 ![SQLite](https://img.shields.io/badge/SQLite-%23575757.svg?logo=sqlite&logoColor=white)
-![Postgres](https://img.shields.io/badge/-PostgreSQL-%2361DAFB?style=flat-square&logo=postgresql&logoColor=white)
+![Postgres](https://img.shields.io/badge/-PostgreSQL-%2361DAFB?style=flat-square&logo=postgresql&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
 
 #### 📦 Containers:
