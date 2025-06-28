@@ -8,7 +8,7 @@ struct Actuary {
 
 fn main() {
     let me = Actuary {
-        name: "Trung-Hieu".to_string(),
+        name: "Willian".to_string(),
         role: "aspiring actuary student".to_string(),
     };
 
