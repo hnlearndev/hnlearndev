@@ -9,13 +9,11 @@ struct Actuary {
 fn main() {
     let me = Actuary {
         name: "Willian".to_string(),
-        role: "aspiring actuary student".to_string(),
+        role: "an aspiring actuary student".to_string(),
     };
 
     let msg = format!(
-        "Welcome to my Github. My name is {}, an {}. Hope you find something helpful to your journey.",
-        me.name,
-        me.role,
+        "Welcome to my Github. My name is {me.name}, {me.role}. Hope you find something helpful to your journey.",
     );
 
     println!("{}", msg);
@@ -31,6 +29,7 @@ fn main() {
 #### 🔨 Languages:
 ![Rust](https://img.shields.io/badge/Rust-000000.svg?style=flat-square&logo=Rust&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C.svg?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-14354C.svg?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%230C55A5.svg?style=flat-square&logo=TypeScript&logoColor=white)
 ![C#](https://custom-icon-badges.herokuapp.com/badge/C%23-68217A.svg?style=flat-square&logo=cs2&logoColor=white)
 
