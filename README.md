@@ -13,7 +13,7 @@ fn main() {
     };
 
     let msg = format!(
-        "Welcome to my Github. My name is {me.name}, {me.role}. Hope you find something helpful to your journey.",
+        "Welcome to my Github. My name is {me.name}, {me.role}. Hope you find something helpful to your journey."
     );
 
     println!("{}", msg);
