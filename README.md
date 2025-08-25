@@ -28,7 +28,7 @@ fn main() {
 
 #### 🔨 Languages:
 ![Rust](https://img.shields.io/badge/Rust-000000.svg?style=flat-square&logo=Rust&logoColor=white)
-![Python](https://img.shields.io/badge/Python-14354C.svg?style=flat-square&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C.svg?style=flat-square&logo=python)
 ![R](https://img.shields.io/badge/R-b3e1f2.svg?style=flat-square&logo=R&logoColor=blue)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%230C55A5.svg?style=flat-square&logo=TypeScript&logoColor=white)
 ![C#](https://custom-icon-badges.herokuapp.com/badge/C%23-68217A.svg?style=flat-square&logo=cs2&logoColor=white)
