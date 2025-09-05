@@ -20,12 +20,6 @@ fn main() {
 }
 ```
 
-<div align="center">
-    
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hnlearndev&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-</div>
-
 #### 📫 Connect with me: 
 
 <a href="mailto:hieunt.hello@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -49,3 +43,8 @@ fn main() {
 ![Podman](https://img.shields.io/badge/Podman-430098?style=flat-square&logo=podman&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326ce5?style=flat-square&logo=kubernetes&logoColor=white)
 
+<div align="center">
+    
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hnlearndev&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+</div>
