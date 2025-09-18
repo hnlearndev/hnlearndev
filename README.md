@@ -22,9 +22,9 @@ fn main() {
 
 #### 📫 Connect with me: 
 
-<a href="mailto:hieunt.hello@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/hieunthello"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/hnlearndev"><img src="https://img.shields.io/badge/github-000000.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+[![Gmail](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:hieunt.hello@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hieunthello)
+[![GitHub](https://img.shields.io/badge/github-000000.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/hnlearndev)
 
 #### 🔨 Languages:
 ![Rust](https://img.shields.io/badge/Rust-000000.svg?style=flat-square&logo=Rust&logoColor=white)
