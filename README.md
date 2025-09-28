@@ -1,23 +1,18 @@
 ## Hi there 👋
 
 ```rust
-struct Actuary {
-    name: String,
-    role: String,
-}
+let me = Actuary {
+    name: "Willian".to_string(),
+    role: "an aspiring actuary student".to_string(),
+};
 
-fn main() {
-    let me = Actuary {
-        name: "Willian".to_string(),
-        role: "an aspiring actuary student".to_string(),
-    };
+let msg = format!(
+    "Welcome to my GitHub. My name is {}, {}. Hope you find something helpful for your journey.",
+    me.name,
+    me.role
+);
 
-    let msg = format!(
-        "Welcome to my GitHub. My name is {me.name}, {me.role}. Hope you find something helpful for your journey."
-    );
-
-    println!(msg);
-}
+println!("{}", msg);
 ```
 
 #### 📫 Connect with me: 
