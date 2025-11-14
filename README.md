@@ -9,7 +9,7 @@ let me = Actuary {
 let msg = format!(
     "Welcome to my GitHub. My name is {}, {}. Hope you find something helpful for your journey.",
     me.name,
-    me.role
+    me.role,
 );
 
 println!("{}", msg);
