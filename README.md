@@ -1,6 +1,11 @@
 ## Hi there 👋
 
 ```rust
+pub struct Actuary {
+    pub name: String,
+    pub role: String,
+}
+
 let me = Actuary {
     name: "Willian".to_string(),
     role: "an aspiring actuary student".to_string(),
