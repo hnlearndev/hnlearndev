@@ -17,7 +17,7 @@ let msg = format!(
     me.role,
 );
 
-println!("{}", msg);
+println!("{msg}");
 ```
 
 #### 📫 Connect with me: 
