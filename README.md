@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=hnlearndev)
-
 ## Hi there 👋
 
 ```rust
@@ -47,6 +45,8 @@ println!("{msg}");
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hnlearndev&theme=dark&layout=compact)
+![Profile_views](https://komarev.com/ghpvc/?username=hnlearndev)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hnlearndev&theme=dark&layout=compact&cache_seconds=1800)
 
 </div>
