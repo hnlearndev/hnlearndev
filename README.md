@@ -1,3 +1,5 @@
+![Views](https://komarev.com/ghpvc/?username=hnlearndev)
+
 ## Hi there 👋
 
 ```rust
@@ -43,10 +45,6 @@ println!("{msg}");
 ![Podman](https://img.shields.io/badge/Podman-430098?style=flat-square&logo=podman&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=flat-square&logo=kubernetes&logoColor=white)
 
+
 <div align="center">
-
-![Profile_views](https://komarev.com/ghpvc/?username=hnlearndev)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hnlearndev&theme=dark&layout=compact&cache_seconds=1800)
-
 </div>
